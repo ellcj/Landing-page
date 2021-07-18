@@ -1,0 +1,30 @@
+
+
+
+
+.carousel .carousel-indicators li {
+  background-color: rgb(150, 17, 17);
+  background-color: rgba(70,70,70,.25);
+}
+
+.carousel .carousel-indicators .active {
+  background-color: #444;
+} 
+
+/* Only for beautify example */
+h1 {
+  margin: 60px auto;
+  text-align: center;
+}
+
+h1 > small {
+  color: #999;
+}
+
+img {
+  width: 100%;
+}
+
+.carousel .carousel-caption {
+  color: #999;
+}
